@@ -1,0 +1,4 @@
+LEV 2012 toyota 2012 2000
+LEC vitz suzuki 2012 2121
+CAR1 civic honda 2005 1000
+CAR2 Vitz Toyota 2012 1200

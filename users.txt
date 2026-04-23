@@ -1,0 +1,6 @@
+admin 3213 admin A1
+cust1 1122 customer C1
+cust2 1212 customer C2
+tehreem 1458 customer C3
+wajiha 123 customer C4
+reem 456 customer C5
